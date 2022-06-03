@@ -1,0 +1,22 @@
+Login [username] [password] : Login user1 password1
+Follow [username] : Follow user1
+Unfollow [username] : Unfollow user1
+Block [username] : Block user1
+Unblock [username] : Unblock user1
+Comment [comment content] [tweet id] : Comment nice caption 1
+Get Comments [tweet id] : Get Comments 1
+Get Followings Activity (There Is No Parameter)
+Get Likes Count [tweet id] : Get Likes Count 1
+Get Likes List [tweet id] : Get Likes List 1
+Get Logins List [username] : Get Logins List user1
+Get Message Senders List (There Is No Parameter)
+Get Personal Tweets (There Is No Parameter)
+Get Popular Tweets (There Is No Parameter)
+Get Tweets Of Hashtag [hashtag] : Get Tweets Of Hashtag #abcde
+Get User Activity [username] : Get User Activity user1
+Get User Messages [username] : Get User Messages user1
+Like Tweet [tweet id] : Like Tweet 1
+New Tweet [content] : New Tweet hello world #abcde
+Register [username] [firstname] [lastname] [password] [birthdate] [biography] : Register user1 saba rad password1 15/10/2000 comp eng stu 
+Send Message Tweet [username] [tweet id] : Send Message user1 1
+Send Message Text [username] [text] : Send Message user1 how u doin?
